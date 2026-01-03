@@ -7,7 +7,7 @@ export default function TabTwoScreen() {
     <View style={styles.container}>
       <Image
         style={styles.image}
-        source={require("../../assets/images/black man.jpg")}
+        source={require("../../assets/images/icon.png")}
       />
       <Text style={styles.title}>Placeholder</Text>
     </View>

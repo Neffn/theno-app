@@ -4,12 +4,12 @@
     "slug": "theno-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/black man.jpg",
+    "icon": "./assets/images/icon.png",
     "scheme": "thenoapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/images/black man.jpg",
+      "image": "./assets/images/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -18,7 +18,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/black man.jpg",
+        "foregroundImage": "./assets/images/icon.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
