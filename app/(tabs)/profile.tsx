@@ -18,15 +18,15 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     alignItems: "center",
-    justifyContent: "center",
+    marginTop: 50,
   },
   title: {
     fontSize: 20,
     fontWeight: "bold",
   },
   image: {
-    width: 200,
-    height: 200,
+    width: 100,
+    height: 100,
     borderRadius: 100,
     marginBottom: 20,
   },
